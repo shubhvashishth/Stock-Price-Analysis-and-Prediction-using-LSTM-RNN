@@ -1,5 +1,5 @@
 
-# Google Stock Analysis and Prediction using LSTM RNN
+# Stock Analysis and Prediction using LSTM RNN
 
 
 ## Overview
